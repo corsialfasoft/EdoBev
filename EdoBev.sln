@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdoBev", "EdoBev\EdoBev.csproj", "{BC6E43CA-A81A-4A41-AE3F-E551C8EFC08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdoBev.Tests", "EdoBev.Tests\EdoBev.Tests.csproj", "{A1B86CCA-8B38-4DC3-AC85-520C51429B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6E43CA-A81A-4A41-AE3F-E551C8EFC08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6E43CA-A81A-4A41-AE3F-E551C8EFC08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6E43CA-A81A-4A41-AE3F-E551C8EFC08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6E43CA-A81A-4A41-AE3F-E551C8EFC08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B86CCA-8B38-4DC3-AC85-520C51429B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B86CCA-8B38-4DC3-AC85-520C51429B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B86CCA-8B38-4DC3-AC85-520C51429B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B86CCA-8B38-4DC3-AC85-520C51429B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A733E64B-32C7-4BDD-9A00-B39CD6637858}
+	EndGlobalSection
+EndGlobal
